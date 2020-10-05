@@ -2,7 +2,7 @@
     "usuarios":[
         {
             "id":1,
-            "email":"pizocristian@gmail.com",
+            "user":"pizocristian@gmail.com",
             "password":"root1234"
         }
     ]
